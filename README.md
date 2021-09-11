@@ -1,13 +1,25 @@
 # Danh sách thành viên
-- Họ và tên: Đỗ Hải
-- Khóa: 2019
-- Ngành: Khoa học máy tính
-- Sở thích: Xem phim, nghe nhạc, đọc sách, tìm hiểu về thiên văn học,...
-- Định hướng nghề nghiệp:  định hướng Tính toán Đa phương tiện
-**************
+
 Họ và tên: Đỗ Hải
+
 Khóa: 2019
+
 Ngành: Khoa học máy tính
+
 Sở thích: Xem phim, nghe nhạc, đọc sách, tìm hiểu về thiên văn học,...
+
 Định hướng nghề nghiệp:  định hướng Tính toán Đa phương tiện
+
+**************
+Họ và Tên: Kiên Tiến Đạt
+
+Khoá: 2018
+
+Ngành: Khoa Học Dữ Liệu
+
+Sở thích: Du lịch, chơi game
+
+Định hướng nghề nghiệp: Data engineer, Data analysis
+
+Chia sẻ, kết nối: fb.com/neitad.k
 
