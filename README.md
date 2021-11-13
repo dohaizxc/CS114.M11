@@ -13,7 +13,7 @@ Ngành: Khoa học máy tính
 
 Sở thích: Xem phim, nghe nhạc, đọc sách, tìm hiểu về thiên văn học,...
 
-Định hướng nghề nghiệp:  định hướng Tính toán Đa phương tiện
+Định hướng nghề nghiệp: Multimedia Processing
 
 **************
 Họ và Tên: Kiên Tiến Đạt
