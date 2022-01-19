@@ -1,35 +1,15 @@
 # MÔN CS114.M11 - MÁY HỌC
-
+************************
 
 # Danh sách thành viên
+## **Danh sách thành viên nhóm**
+<!-- ### Thông tin liên hệ -->
+| STT | MSSV | Họ và tên | Github |
+|:--- | :-------|:----------|:------------|:------------|:-------------| 
+|1|18520586|Kiên Tiến Đạt|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][0]|
+|2|19521460|Đỗ Hải| [<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][1]|
+|3|19521654|Hồ Trương Kha|[<img alt="" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>][2]|
 
-Họ và tên: Đỗ Hải
-
-MSSV: 19521460
-
-Khóa: 2019
-
-Ngành: Khoa học máy tính
-
-Sở thích: Xem phim, nghe nhạc, đọc sách, tìm hiểu về thiên văn học,...
-
-Định hướng nghề nghiệp: Multimedia Processing
-
-**************
-Họ và Tên: Kiên Tiến Đạt
-
-MSSV: 18520586
-
-Khoá: 2018
-
-Ngành: Khoa Học Dữ Liệu
-
-Sở thích: Du lịch, chơi game
-
-Định hướng nghề nghiệp: Data engineer, Data analysis
-
-Chia sẻ, kết nối: fb.com/neitad.k
-
-Link Github: https://github.com/Neitad/CS114.M11
-**************
-
+[0]:https://github.com/Neitad
+[1]:https://github.com/dohaizxc
+[2]:https://github.com/phuvinh010701
