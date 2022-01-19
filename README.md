@@ -2,7 +2,6 @@
 ************************
 
 # Danh sách thành viên
-## **Danh sách thành viên nhóm**
 <!-- ### Thông tin liên hệ -->
 | STT | MSSV | Họ và tên | Github |
 |:--- | :-------|:----------|:------------|
